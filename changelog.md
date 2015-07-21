@@ -1,3 +1,9 @@
+## v0.6.1 [view commit logs](https://github.com/marionettejs/backbone.syphon/compare/v0.6.0...v0.6.2)↵
+
+### Fixes
+
+* jQuery Find is used instead of Children for issue #104
+
 ## v0.6.0 [view commit logs](https://github.com/marionettejs/backbone.syphon/compare/v0.5.1...v0.6.1)
 
 ### Fixes
